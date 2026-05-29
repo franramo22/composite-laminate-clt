@@ -1,0 +1,21 @@
+# MATLAB auto-generated files
+*.asv
+*.m~
+*.mlx.bak
+*.slx.bak
+
+# MATLAB cache/build artifacts
+codegen/
+slprj/
+*.mex*
+*.mexa64
+*.mexmaci64
+*.mexw64
+
+# Simulink autosave
+*.autosave
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
